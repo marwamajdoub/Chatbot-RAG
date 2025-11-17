@@ -1,0 +1,21 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour e j'aurais voulu savoir je postule pour e donc j'étais en licence d'économie à Rennes # à Vannes pardon [pf] cette année
+<03> hotesse
+     h: oui
+<04> client
+     c: et donc je postule pour l'IGER l'année prochaine et j'aurais voulu savoir s'il était possible d'avoir e mes notes du premier semestre
+<05> hotesse
+     h: en A E S
+<06> client
+     c: non en écono(mie) en science licence sciences économiques
+<07> hotesse
+     h: oui alors conservez je vais vous passer Prénom Nom
+<08> hotesse2
+     h: oui
+<09> hotesse
+     h: oui c'est pour toi
+<10> hotesse+hotesse2
+     h: Prénom
+     h: oui merci

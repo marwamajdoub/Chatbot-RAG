@@ -1,0 +1,39 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour [pi] j'aurais aimé savoir si les diplômes de [pi] qui a été envoyé au rectorat pour des modifications était arrivé ou pas
+<03> hotesse
+     h: e j'ai pas compris vous p() [rire] oui
+<04> client
+     c: donc en fait il y a un diplôme qui a été envoyé au rectorat pour des modifications et donc j'aurais aimé savoir est-ce qu'il vous est parvenu ou pas encore
+<05> hotesse
+     h: est-ce que à oui au rectorat
+<06> hotesse+client
+     h: c'est sur Lorient
+     c: ouais
+<07> hotesse
+     h: ça
+<08> client
+     c: hein là je suis à Lorient
+<09> hotesse
+     h: non c'est à Vannes
+<10> client
+     c: ouais ben ouais ouais ouais
+<11> hotesse
+     h: et en quelle filière
+<12> client
+     c: A E S de deux mille deux
+<13> hotesse
+     h: alors attendez je vais vous passer la personne conservez hein
+<14> client
+     c: oui # [pi]
+<15> hotesse
+     h: [pi]
+<16> client
+     c: [pi]
+<17> hotesse2
+     h: oui allo
+<18> hotesse
+     h: oui c'est pour toi Prénom
+<19> hotesse2
+     h: merci

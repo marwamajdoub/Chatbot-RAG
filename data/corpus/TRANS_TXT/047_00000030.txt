@@ -1,0 +1,76 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour madame e j'appelais pour avoir un petit renseignement e je souhaitais savoir si l'université préparait e comment faisait faisait une préparation à des concours administratifs style e rédacteur territorial ou adjoint administratif
+<03> hotesse
+     h: des concours administratifs
+<04> client
+     c: ouais
+<05> hotesse
+     h: si on avait un programme sur ça
+<06> client
+     c: voilà oui oui
+<07> hotesse
+     h: [pi] on a pas de programme pour e
+<08> hotesse2
+     h: je l'avais [pi]
+<09> hotesse
+     h: est ce qu'il y aurait pas des concours administratifs
+<10> hotesse2
+     h: e des concours administratifs e ouais il y a un service de [pi] de douze heures à dix-huit heures # allo
+<11> client
+     c: allo
+<12> hotesse2
+     h: ouais c'est quels concours vous parlez madame
+<13> client
+     c: e donc e s(oit) soit adjoint administratif ou rédacteur e
+<14> hotesse2
+     h: ah non c'est pas ça c'est pas ici chez nous non
+<15> client
+     c: non c'est pas vous ne faîtes pas de préparations e # e pour ces concours-là
+<16> hotesse2
+     h: ah non c'est nous on a une préparation interne pour nos candidats quoi pour notre personnel disons c'est tout
+<17> client
+     c: ah d'accord
+<18> hotesse2
+     h: ouais ouais
+<19> client
+     c: d'accord non non moi je cherchais e si vous voulez e
+<20> hotesse2
+     h: il y a le CNED sinon e
+<21> client
+     c: ouais et je sais aussi que à Rennes il y a une formation e u(ne) licence professionnelle e pour e enfin pour les professionnels des collectivités territoriales
+<22> hotesse2
+     h: ouais
+<23> client
+     c: e donc j'ai trouvé ça dans
+<24> hotesse2
+     h: donc faudrait que vous appeliez le S U I O ça à ce moment là
+<25> client
+     c: c'est le le quoi
+<26> hotesse2
+     h: le Service Universitaire de l'Information et de l'Orientation donc 0 2 97 0 1 27 0 0
+<27> client
+     c: 0 1 27 0 0
+<28> hotesse2
+     h: voilà c'est le Service Universitaire de l'Information et de l'Orientation parce que ici vous êtes à l'accueil de la fac de droit donc e
+<29> client
+     c: d'accord
+<30> hotesse2
+     h: e on ne sait pas tout quoi
+<31> client
+     c: très bien
+<32> hotesse2+client
+     h: donc le Service
+     c: je vous remerc(ie)
+<33> hotesse2
+     h: de l'Information et de l'Orientation lui il doit peut-être e au au moins il vous donnera le numéro où téléphoner quoi
+<34> client
+     c: d'accord très bien
+<35> hotesse2+client
+     h: voilà
+     c: je vous remercie
+<36> client
+     c: au revoir
+<37> hotesse2
+     h: à votre service au revoir

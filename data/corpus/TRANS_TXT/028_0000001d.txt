@@ -1,0 +1,197 @@
+<01> hotesse
+     h: U B S allo
+<02> hotesse2
+     h: oui e Prénom
+<03> hotesse
+     h: ouais
+<04> hotesse2
+     h: e j'ai en communication là une personne qui a un souci avec e son inscription je te passe
+<05> hotesse
+     h: un souci avec une inscription
+<06> hotesse2
+     h: ouais
+<07> hotesse+hotesse2
+     h: ouais ben passe-la moi ouais
+     h: d'accord
+<08> hotesse2
+     h: Ok
+<09> hotesse
+     h: allo
+<10> client
+     c: allo
+<11> hotesse
+     h: bonjour madame
+<12> client
+     c: bonjour excusez-moi de vous déranger
+<13> hotesse
+     h: je vous en prie
+<14> client
+     c: e j'aurais voulu avoir des précisions s'il vous plait parce qu'en fait e donc en ce qui concerne l'inscription à Vannes
+<15> hotesse
+     h: hm
+<16> client
+     c: e sur internet en fait # e la préinscription donc je l'ai faite
+<17> hotesse+client
+     h: oui
+     c: tout c'est bien passé
+<18> hotesse
+     h: oui
+<19> client
+     c: e et il y avait une inscription en accès libre donc c'est du dix sept mai au six juin
+<20> hotesse
+     h: e la validation de e d'un voeu
+<21> client
+     c: oui voilà
+<22> hotesse
+     h: parmi les trois voeux
+<23> hotesse+client
+     h: que vous avez effectués e
+     c: [pi] oui voilà
+<24> hotesse
+     h: enfin trois voeux ou
+<25> hotesse+client
+     h: bien d() [pi] un ou un deux voilà e
+     c: ouais j'a() je non j'en avais fait qu'un en fait c'est ça ouais
+<26> hotesse
+     h: et vous voulez le valider
+<27> client
+     c: ouais voilà en fait non non tout c'est bien passé je l'ai fait
+<28> hotesse
+     h: hm
+<29> client
+     c: et e hier par curiosité j'ai voulu voir e si je m'étais vraiment e enfin si je m'étais pas trompée bon b() vu que c'était le dernier jour
+<30> hotesse
+     h: hm
+<31> client
+     c: et e quand j'ai voulu regarder e et e c'était pas marqué en fait que j'avais fait un un choix définitif il y avait rien il y avait pas deux tableaux comme il y avait eu la première fois
+<32> hotesse+client
+     h: ou bien e vous le referez e lorsque
+     c: donc je voulais savoir si c'était normal
+<33> hotesse
+     h: ça va la connexion va ré(ouvir) se réouvrir à la e pour la val(idation) pour le e la confirmation du bac
+<34> client
+     c: d'accord
+<35> hotesse
+     h: donc e lorsque vous allez réouvrir
+<36> client
+     c: hm hm
+<37> hotesse
+     h: donc il va vous redemander de e confirmer le voeu ça c'est pour envoyer
+     h: un dossier mais bon on vous enverra le dossier du e ne quittez pas hein
+<38> client
+     c: d'accord
+<39> hotesse
+     h: # oui # ah ok # bon allo
+<40> client
+     c: allo
+<41> hotesse
+     h: donc vous allez # valider
+<42> client
+     c: oui
+<43> hotesse
+     h: confirmer le bac et à ce moment là vous aurez une date et une heure de e de rendez-vous
+<44> client
+     c: d'accord donc c'est normal en fait qu'on ne qu'on ne voit pas e le choix e
+<45> hotesse
+     h: e peut-être ça a pas été pris mais bon ceux qui l'ont pas fait ils vont le refaire là
+<46> client
+     c: d'accord
+<47> hotesse
+     h: parce qu'il y en a qui l'ont pas fait
+<48> client
+     c: d'accord
+<49> hotesse
+     h: e
+<50> client
+     c: voilà [pi] c'est tout ce que je voulais savoir parce que je m'inquiétais un peu de pas a(voir)
+<51> hotesse+client
+     h: non non il y en a il y en a beaucoup qui
+     c: de pas avoir
+<52> hotesse
+     h: qui ont pas fait ça ceux qui étaient candidat e à la fois à l'I U T et puis e chez nous
+<53> hotesse+client
+     h: et ils savaient pas
+     c: hm hm
+<54> hotesse
+     h: si il fallait valider ou attendre les résultats de l'I U T
+<55> hotesse+client
+     h: d'accord parce que ben moi
+     c: et de tout ça
+<56> client
+     c: j'avais validé c'est pour ça et e ben je je voyais je vois pas sur l'écran donc e bon
+<57> hotesse
+     h: ben je vais regarder quand même e e c'est quoi votre numéro
+<58> client
+     c: alors hop attendez 0 6
+<59> hotesse
+     h: 0 6
+<60> client
+     c: F
+<61> hotesse
+     h: non non mais votre votre numéro de téléphone parce
+<62> hotesse+client
+     h: que là j'ai j'ai du monde et
+     c: ah pardon
+<63> hotesse
+     h: je vais m'en occuper et je vous rappelle
+<64> hotesse+client
+     h: si j'ai le temps
+     c: alors
+<65> client
+     c: 0 2 97
+<66> hotesse
+     h: ouais
+<67> client
+     c: 76
+<68> hotesse
+     h: ouais
+<69> client
+     c: 40
+<70> hotesse
+     h: 40
+<71> client
+     c: XX
+<72> hotesse
+     h: XX # 0 2 97 76 40 XX vous êtes e
+<73> client
+     c: madam(e) mademoiselle Nom
+<74> hotesse
+     h: N O M
+<75> client
+     c: voilà
+<76> hotesse
+     h: alors donc là je vais prendre votre code en même temps
+<77> client
+     c: c'est ce que j'allais vous donner tout à l'heure [rire]
+<78> hotesse
+     h: [rire] [pi] je comptais rappeler tout de suite mais il dit e si jamais je vous ai pas je peux toujours e connecter c'est e alors le code c'est
+<79> client
+     c: 0 6
+<80> hotesse
+     h: ouais
+<81> client
+     c: R
+<82> hotesse
+     h: R
+<83> client
+     c: P
+<84> hotesse
+     h: R P
+<85> client
+     c: M
+<86> hotesse
+     h: 0 6 R P M
+<87> client
+     c: X X
+<88> hotesse
+     h: 0 6 R P M X X
+<89> client
+     c: voilà
+<90> hotesse
+     h: Ok
+<91> client
+     c: ben je vous remercie
+<92> hotesse
+     h: à votre service à tout à l'heure au revoir
+<93> client
+     c: au revoir

@@ -1,0 +1,65 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour madame excusez-moi de vous déranger [pf] en fait je suis étudiant et en fait j'aurais voulu savoir e les formations qui e qu'il y avait au niveau des troisièmes cycles avec le nouveau master qui va se mettre en place [pf] en gestion en fait ce que vous aviez
+<03> hotesse
+     h: I() I U P sciences de gestion
+<04> client
+     c: comment
+<05> hotesse
+     h: I U P sciences de gestion
+<06> client
+     c: non pour savoir ce que vous aviez en en master en fait
+<07> hotesse
+     h: oui conservez je vais vous passer # je v() [pi] je vais vous passer une personne hein conservez
+<08> client
+     c: d'accord
+<09> hotesse
+     h: # qu'est-ce qui fait où c'est que j'ai mis ma feuille [pi] c'est pas le S U I O qui peut les renseigner [pi] # et c'est vous autrement # oui est-ce que vous pouvez rappeler la semaine prochaine parce qu'ils n'ont pas eu toutes les informations e
+<10> client
+     c: d'accord parce que en fait les dates d'inscription c'est quand la clôture
+<11> hotesse
+     h: c'est pour les la date d'inscription c'est ça
+<12> client
+     c: e ouais pour s'inscrire par exemple s'il y a un master qui m'intéresse
+<13> hotesse+client
+     h: c'est quand la date but(oir) # la date butoir e
+     c: il y a un master qui l'intéresse et il voudrait s'inscrire e
+<14> hotesse
+     h: # S G E G # oui
+<15> client
+     c: comment
+<16> hotesse
+     h: [pi] c'est en S() S G E G
+<17> client
+     c: ça veux dire quoi # S
+<18> hotesse
+     h: en droit
+<19> client
+     c: c'est en économie
+<20> hotesse+client
+     h: économie et gestion
+     c: gestion en fait
+<21> hotesse
+     h: donc
+<22> hotesse+client
+     h: [pi]
+     c: et justement je
+<23> client
+     c: je voulais e savoir ce qu'il y avait en fait comme offre # de formation
+<24> hotesse
+     h: # oui ben conservez je vais vous passer une autre personne hein
+<25> client
+     c: d'accord
+<26> hotesse
+     h: [pi]
+<27> client
+     c: merci
+<28> hotesse
+     h: [pi] # [pi] il doit peut-être savoir [pi] qui est ce qui pourrait me [pi] # oui à tout à l'heure oui #
+<29> hotesse2
+     h: oui
+<30> hotesse
+     h: oui je te passe une communication
+<31> hotesse2
+     h: d'accord

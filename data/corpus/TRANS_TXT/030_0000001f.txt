@@ -1,0 +1,12 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour Prénom Nom au service scolarité de l'I U T de Vannes j'essaie de joindre Prénom2 Nom2 # elle est pas là cet après-midi
+<03> hotesse
+     h: e vous avez fait le 725
+<04> client
+     c: oui c'est ça
+<05> hotesse
+     h: # ne quittez pas je vais voir
+<06> client
+     c: merci

@@ -1,0 +1,37 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour madame excusez moi de vous déranger j'aurais voulu un renseignement
+<03> hotesse+client
+     h: oui
+     c: s'il vous plait
+<04> client
+     c: [pf] j'ai ma fille qui s'est inscrite chez vous e par internet
+<05> hotesse
+     h: hm hm
+<06> client
+     c: et elle n'a pas eu confirmation
+<07> hotesse
+     h: alors e donc elle a formulé trois voeux au départ sur internet
+<08> client
+     c: ouais oui je pense oui
+<09> hotesse
+     h: oui et avant le six juin elle a dû valider un des trois voeux
+<10> client
+     c: non justement elle a pas pu le faire
+<11> hotesse
+     h: elle n'a pas pu le faire bon alors elle souhaite s'inscrire chez nous madame
+<12> client
+     c: oui
+<13> hotesse
+     h: en quoi
+<14> client
+     c: [pf] e licence un A E S
+<15> hotesse
+     h: d'accord e je vais vous passer la e je vais vous mettre en relation avec la secrétaire de scolarité
+<16> client
+     c: d'accord ben je vous remercie beaucoup madame
+<17> hotesse
+     h: # e madame le le poste du secrétariat d(e) de scolarité ne répond pas je vais vérifier ses horaires de travail hein
+<18> client
+     c: d'accord

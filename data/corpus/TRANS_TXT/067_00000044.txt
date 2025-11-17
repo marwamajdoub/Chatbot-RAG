@@ -1,0 +1,76 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour madame madame Nom à l'appareil je be(n) je cherche à joindre monsieur Nom2
+<03> hotesse
+     h: monsieur Nom2 vous avez essayé son bureau
+<04> hotesse+client
+     h: direct
+     c: oui
+<05> client
+     c: oui
+<06> hotesse+client
+     h: ah oui ok
+     c: il répond pas
+<07> hotesse
+     h: non ben il doit pas être
+<08> hotesse+client
+     h: là pour le moment
+     c: c'est() c'est e
+<09> client
+     c: 0 1 26 58 c'est ça
+<10> hotesse
+     h: monsieur Nom2 attendez je regarde
+<11> hotesse+client
+     h: bien
+     c: 0 1 26
+<12> client
+     c: 26 58
+<13> hotesse
+     h: # e je cherche parce que j'ai pas le numéro en tête
+<14> client
+     c: hm
+<15> hotesse
+     h: Nom2 Nom2 Nom2 # oui c'est ça alors attendez
+<16> client
+     c: bon
+<17> hotesse
+     h: c'est ça c'est ça oui
+<18> client
+     c: c'est ça et madame Nom3 j'ai pas son numéro direct
+<19> hotesse
+     h: madame Nom3
+<20> client
+     c: oui
+<21> hotesse
+     h: six cent quarante neuf à la fin
+<22> client
+     c: c'est six cent quarante n(euf) # e combien
+<23> hotesse
+     h: e six cent quarante neuf
+<24> client
+     c: 26 49 c'est
+<25> hotesse+client
+     h: en tout ah bien oui mais nous on fait 26 9
+     c: ça d'accord # oui
+<26> hotesse
+     h: oui oui oui je sais vous bon je fais les mêmes e au départ
+<27> hotesse+client
+     h: ouais 0 2 97
+     c: bon ok c'est elle qui est responsable
+<28> client
+     c: de la première année e A E S
+<29> hotesse
+     h: oui mais je peux vous passer le secrétariat autrement # mais je crois qu'elle est en ligne la personne # mais autrement oui il y a Nom2 Prénom2 Prénom3 [pi]
+<30> client
+     c: bon mais je vais non écoutez je vais l'appeler lui directement c'est quand même plus # courtois
+<31> hotesse+client
+     h: d'accord
+     c: je vais l'appeler
+<32> client
+     c: directement
+<33> hotesse+client
+     h: au revoir
+     c: merci madame
+<34> client
+     c: au revoir

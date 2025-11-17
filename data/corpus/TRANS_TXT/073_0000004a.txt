@@ -1,0 +1,64 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour madame j'aurais voulu le secrétariat de la fac de droit
+<03> hotesse
+     h: e oui qu'avez v() dans quelle filière
+<04> client
+     c: e [pf] [pi] je je en fait j'ai reçu un un appel sur mon portable parce que je je donne des cours et c'est j'aurais voulu la personne qui s'occupe en maîtrise de droit publique de de collecter les notes alors je c'est #
+<05> hotesse+client
+     h: [pi]
+     c: sur un portable c'est
+<06> client
+     c: très mal indiqué je j'arrive pas à comprendre le nom
+<07> hotesse
+     h: ça doit être Nom Prénom
+<08> client
+     c: e c'est possible oui
+<09> hotesse
+     h: oui Nom2 Prénom2
+<10> client
+     c: peut-être oui vous
+<11> hotesse
+     h: et sur v() le papier c'est marqué quoi # vous avez du mal à relire
+<12> client
+     c: non c'est c'est sur mon portable j'ai eu un un message
+<13> hotesse
+     h: de droit publique
+<14> client
+     c: oui droit publique mais j'arrive pas e j'arrive pas à
+<15> hotesse+client
+     h: [pi] le nom
+     c: entendre quoi j'ai j'ai pas compris le nom
+<16> hotesse
+     h: oui [pi] # licence maîtrise ou
+<17> client
+     c: maîtrise
+<18> hotesse
+     h: maîtrise # Nom Prénom conservez je vais vous la passer
+<19> client
+     c: merci beaucoup
+<20> hotesse2
+     h: #
+     h: allo
+<21> hotesse
+     h: c'est pour toi tu as dû appeler quelqu'un sur un portable
+<22> hotesse2
+     h: non
+<23> hotesse
+     h: non ben il a ton il pense que c'est toi en
+<24> hotesse2
+     h: ah bon
+<25> hotesse
+     h: oui
+<26> hotesse2
+     h: c'est un beau mec
+<27> hotesse+hotesse2
+     h: moi je
+     h: ou quoi
+<28> hotesse
+     h: vois pas il m'a eue par téléphone
+<29> hotesse2
+     h: oh ben merde alors
+<30> hotesse
+     h: oui zut

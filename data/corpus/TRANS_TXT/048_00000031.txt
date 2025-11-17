@@ -1,0 +1,51 @@
+<01> hotesse
+     h: U B S Bonjour
+<02> client
+     c: oui bonjour madame e j'aurais souhaité parler à madame Nom s'il vous plait
+<03> hotesse
+     h: madame Nom conservez je vais voir si e # ah ben elle est pas elle est sur Lorient madame Nom
+<04> client
+     c: ah bon parce que on m'a donné ce numéro
+<05> hotesse
+     h: elle est là que le lundi et le mardi
+<06> client
+     c: ah d'accord très bien parce qu'on m'a donné un autre numéro c'est le 88 05 49
+<07> hotesse
+     h: oui oui je vais vous donner le numéro de téléphone directement de Lorient de madame Nom
+<08> client
+     c: ouais d'accord
+<09> hotesse
+     h: hein
+<10> hotesse+client
+     h: conservez
+     c: d'accord
+<11> hotesse
+     h: # alors là elle est là le lundi et le mardi tout simplement et autrement elle est sur Lorient
+<12> client
+     c: d'accord
+<13> hotesse
+     h: alors madame Nom madame Nom Madame mais je ne sais plus [pi] #
+<14> client
+     c: je crois que c'est Prénom
+<15> hotesse
+     h: oui c'est Prénom c'est ça #
+<16> client
+     c: mais je crois qu'on m'a donné l'autre numéro hein je suis en train de vous laisser chercher quelque chose que j'ai déjà
+<17> hotesse+client
+     h: ah bon quel numéro vous avez quel
+     c: c'est pas gentil [rire]
+<18> hotesse
+     h: numéro vous avez
+<19> client
+     c: j'ai le 88 0 5 49 # on m'a dit d'essayer soit l'un soit l'autre
+<20> hotesse
+     h: Nom Prénom alors sur Lorient
+<21> client
+     c: oui
+<22> hotesse
+     h: le 88 0 5 49
+<23> client
+     c: hein c'est ça hein
+<24> hotesse+client
+     h: d'accord c'est celui là # voilà au revoir
+     c: d'accord très bien je vous remercie madame au revoir

@@ -1,0 +1,3 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client

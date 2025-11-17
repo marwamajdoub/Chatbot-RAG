@@ -1,0 +1,63 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour c'est monsieur Nom j'ai ma fille qui a passé son DEUG l'année dernière et puis e elle voulait récupérer son diplôme alors je sais pas quand est ce qu'elle peut le récupérer
+<03> hotesse
+     h: elle a passé son e quel DEUG e monsieur
+<04> client
+     c: le DEUG de e a() ad() administration économique et
+<05> hotesse+client
+     h: donc c'est chez nous alors e ouais
+     c: sociale hein
+<06> hotesse
+     h: donc c'est à rue de la Loi c'est Vannes centre
+<07> hotesse+client
+     h: ouais c'est ça oui
+     c: parce que ouais parce
+<08> hotesse
+     h: que les les sciences ils sont partis à Tohannic et puis bon les gens qui savent pas il viennent récupérer les les DEUG de S V ou S M ici si vous voulez
+<09> client
+     c: ah oui
+<10> hotesse
+     h: donc c'est pour ça il faut nous préciser le DEUG donc c'est le DEUG a() ac() économique
+<11> hotesse+client
+     h: ouais donc elle
+     c: oui A E S elle a eu oui
+<12> hotesse
+     h: peut revenir quand elle veut elle peut venir quand elle veut
+<13> hotesse+client
+     h: [pi]
+     c: e c'est ouvert aujourd'hui par exemple
+<14> hotesse
+     h: comment
+<15> client
+     c: aujourd'hui c'est ouvert par exemple
+<16> hotesse
+     h: ah oui oui c'est ouvert hein jusqu'à dix sept heures trente
+<17> client
+     c: jusqu'à dix sept heures trente [pi]
+<18> hotesse
+     h: enfin moi je vais partir tout à l'heure à seize heures parce que
+<19> hotesse+client
+     h: je suis en congé
+     c: oui [rire]
+<20> hotesse
+     h: mais e elle va passer à quelle heure
+<21> client
+     c: ben e(lle) elle est sur la route de Rennes e pour venir de Rennes là donc e elle va passer
+<22> hotesse+client
+     h: ben sinon elle
+     c: ben je sais pas bientôt
+<23> hotesse
+     h: s'adresse e au secrétariat hein qu'elle s'inquiète pas hein
+<24> client
+     c: d'accord ben je vais lui dire qu'elle peut passer à ce moment là jusqu'à dix sept heures
+<25> hotesse
+     h: ouais ouais ouais ben e et a dix si il y a personne à l'accueil elle va directement au secrétariat
+<26> client
+     c: d'accord
+<27> hotesse
+     h: voilà
+<28> hotesse+client
+     h: au revoir # [pi]
+     c: et bien je vous remercie

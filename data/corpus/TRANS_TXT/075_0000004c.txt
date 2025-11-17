@@ -1,0 +1,44 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour madame j'aurais voulu parler à madame Nom mais je crois que sa ligne directe ne répond pas
+<03> hotesse
+     h: e attendez si elle est dans son bureau là elle vient de rentrer
+<04> client
+     c: ah bon d'accord
+<05> hotesse
+     h: je vais essayer de vous la passer
+<06> client
+     c: merci beaucoup
+<07> hotesse
+     h: e Nom Prénom alors 12 624 conservez hein
+<08> client
+     c: oui
+<09> hotesse
+     h: #
+     h: [pi] en euros # non elle a dû s'absenter de son bureau je vais vous donner son numéro direct
+<10> client
+     c: oui
+<11> hotesse
+     h: hein alors Nom Prénom c'est le 0 2 97
+<12> client
+     c: ouais
+<13> hotesse
+     h: 0 1
+<14> client
+     c: ouais
+<15> hotesse
+     h: XX XX
+<16> client
+     c: c'est ce que j'ai fait
+<17> hotesse
+     h: ah oui c'est retombé à l'accueil
+<18> client
+     c: voilà
+<19> hotesse
+     h: donc elle a dû s'absenter de son bureau mais e(lle) elle est dans le coin donc il suffit de rappeler d'ici un petit quart d'heure
+<20> client
+     c: d'accord entendu
+<21> hotesse+client
+     h: # au revoir
+     c: merci beaucoup au revoir

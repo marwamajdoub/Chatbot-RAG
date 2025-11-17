@@ -1,0 +1,36 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour madame pourrais-je parler à monsieur Nom s'il vous plait
+<03> hotesse
+     h: monsieur Nom
+<04> client
+     c: oui
+<05> hotesse
+     h: # je vais rechercher je vais regarder s'il est dans son bureau # et dans quelle filière il travaille
+<06> client
+     c: e il travaille e au niveau informatique
+<07> hotesse
+     h: ah c'est Prénom Nom
+<08> client
+     c: voilà tout à fait madame
+<09> hotesse
+     h: oui alors attendez lui il est en # en sciences attendez je vais vous le passer
+<10> hotesse+client
+     h: son bureau
+     c: merci
+<11> hotesse
+     h: # là vous êtes au droit # e Nom Prénom alors 0 2 97
+<12> client
+     c: oui
+<13> hotesse
+     h: 0 1
+<14> client
+     c: oui
+<15> hotesse
+     h: 70 XX
+<16> client
+     c: 70 XX # très bien je
+<17> hotesse+client
+     h: voilà au revoir
+     c: vous remercie madame au revoir

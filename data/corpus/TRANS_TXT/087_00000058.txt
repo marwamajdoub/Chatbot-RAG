@@ -1,0 +1,33 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour madame j'aurais voulu parler à Prénom Nom s'il vous plait
+<03> hotesse
+     h: alors Prénom Nom
+<04> client+hotesse
+     c: parce que j'ai essayé de l'appeler tout à l'heure c'était occupé occupé et puis après là ben ça ne répond plus
+     h: ah oui donc c'est ça retombe à l'accueil
+<05> hotesse+client
+     h: [pi] conservez
+     c: oui c'est pourquoi
+<06> hotesse
+     h: je vais essayer de mon côté
+<07> client
+     c: d'accord
+<08> hotesse+client
+     h: # non e(lle) elle a dû
+     c: # si tu veux
+<09> hotesse
+     h: s'absenter de son bureau pour le moment
+<10> client
+     c: d'accord bon ben je
+<11> hotesse+client
+     h: patientez
+     c: réessaierai plus tard
+<12> hotesse
+     h: oui voilà oui [rire]
+<13> client
+     c: merci au
+<14> hotesse+client
+     h: au revoir
+     c: revoir

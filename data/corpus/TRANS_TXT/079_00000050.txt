@@ -1,0 +1,52 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour madame Prénom Nom Crédit Agricole Normand service formation [pf] j'appelais au sujet d'une modification d'une convention de stage pour Prénom2 Nom2
+<03> hotesse
+     h: oui en quelle filière
+<04> client
+     c: elle est en licence professionnelle gestion des Ressources Humaines
+<05> hotesse+client
+     h: oui
+     c: dans les
+<06> client
+     c: PMO
+<07> hotesse
+     h: je vais vous passer la personne
+<08> hotesse+client
+     h: concernée donc secrétariat
+     c: d'accord merci
+<09> hotesse
+     h: c'est Prénom3 Nom3 # donc j'espère qu'elle est là parce que sinon [pi] conservez hein
+<10> client
+     c: d'accord
+<11> repondeur
+     r: est occupé veuillez rappeler ultérieurement ou effectuer un rappel automati(que)
+<12> hotesse
+     h: oui sa ligne est occupée mais je vais vous donner son numéro direct
+<13> client
+     c: d'accord alors attendez je note
+<14> hotesse
+     h: un crayon oui bien-sûr
+<15> client
+     c: oui allez-y
+<16> hotesse
+     h: 0 2 97
+<17> client
+     c: oui
+<18> hotesse
+     h: 0 1
+<19> client
+     c: oui
+<20> hotesse
+     h: 26 XX
+<21> client
+     c: d'accord
+<22> hotesse+client
+     h: Prénom3 Nom3
+     c: merci madame
+<23> client
+     c: d'accord merci beaucoup madame
+<24> hotesse+client
+     h: au revoir madame
+     c: au revoir

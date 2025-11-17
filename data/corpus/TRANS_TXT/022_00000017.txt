@@ -1,0 +1,43 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour est-ce que je pourrais avoir monsieur Nom s'il vous plaît
+<03> hotesse
+     h: c'est lui-même
+<04> client
+     c: ah bonjour j'essayais de vous appeler e j'ai eu votre numéro de téléphone à l'accueil ce matin
+<05> hotesse
+     h: où ça
+<06> client
+     c: à l'accueil
+<07> hotesse+client
+     h: oui
+     c: donc voilà et c'est parce que moi je e c'est pour une préinscription ma fille a été e c'est c'est madame Nom2 qui l'a e inscrite il y a deux jours
+<08> hotesse+client
+     h: ouais e
+     c: en première année
+<09> client
+     c: et e elle m'a donné un numéro de code
+<10> hotesse
+     h: ouais
+<11> client
+     c: et quand je fais ce numéro de code on me dit code invalide
+<12> hotesse
+     h: e attendez attendez parce que là je suis pas à mon bureau vous pouvez me rapeler au 0 2 97
+<13> client
+     c: e oui 0 1 26 0 4
+<14> hotesse
+     h: 0 1 26 0 4 ouais
+<15> client
+     c: et dans combien de temps
+<16> hotesse
+     h: e ben dans deux minutes trois minutes là
+<17> client
+     c: deux minutes trois minutes
+<18> hotesse+client
+     h: ouais
+     c: ok
+<19> hotesse
+     h: allez au revoir madame
+<20> client
+     c: au revoir

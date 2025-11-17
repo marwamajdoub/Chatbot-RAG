@@ -1,0 +1,14 @@
+<01> hotesse
+     h: U B S Bonjour
+<02> client
+     c: oui bonjour madame e j'aurais aimé savoir e où se trouve la réunion de présentation du D A E U ce soir
+<03> hotesse
+     h: du D A E U ah je sais pas c'est avec qui
+<04> client
+     c: e ben je sais pas je vous ai téléph(oné) enfin je sais pas si c'est vous sur qui je suis tombée e vous préparez un examen e qui s'appelle le D A E U un équivalent bac au niveau de l'université et il y a une réun() réunion de présentation ce soir
+<05> hotesse
+     h: e conservez je vais demander # à qu() à partir de quelle heure ce soir
+<06> client
+     c: c'est à dix huit heures
+<07> hotesse
+     h: et comme moi je viens d'arriver là je sais pas est ce que tu sais où il y a une réunion de D A E U à dix huit heures tu n'es pas au courant #

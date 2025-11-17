@@ -1,0 +1,78 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour e j'appelle je sais pas si j'appelle au bon endroit e
+<03> hotesse+client
+     h: je vous écoute
+     c: c'est pour
+<04> client
+     c: e c'est pour savoir si la fac pendant l'été e a des professeurs ou des des gens qui font des stages de de perfectionnement en anglais et en espagnol
+<05> hotesse
+     h: e ce serait pour vous vous souhaiteriez
+<06> hotesse+client
+     h: non
+     c: non non c'est pas pour moi
+<07> client
+     c: ce serait pour ma fille
+<08> hotesse+client
+     h: oui
+     c: mais bon elle est
+<09> client
+     c: en seconde et
+<10> hotesse+client
+     h: et elle souhaiterais se perfectionner
+     c: bon elle va passer en première mais
+<11> hotesse
+     h: en anglais ou en espagnol pendant l'été
+<12> client
+     c: ouais c'est çà
+<13> hotesse
+     h: oui alors e la fac de e de lettre et de langues se trouve à Lorient donc il faudrait plutôt  voir avec Lorient pour e savoir si ils organisent des stages mais en tout cas fac est fermée du 23 juillet au 23 août
+<14> client
+     c: ouais par contre vous pas me m'orienter vers e
+<15> hotesse+client
+     h: vers Lorient
+     c: e
+<16> client
+     c: un organisme sur Vannes qui qui s'occupe de ce genre de chose
+<17> hotesse
+     h: e non à priori non je vois pas e --- e(lle) elle est e vous dîtes elle est en seconde
+<18> client
+     c: ouais et e bon elle va passer en première mais ils faut ils faut ils faut qu'elle renforce sérieusement son anglais et
+<19> hotesse+client
+     h: ben écoutez vous avez
+     c: son espagnol
+<20> hotesse
+     h: un organisme qui s'appelle e "English Connection" il me semble
+<21> client
+     c: ouais
+<22> hotesse
+     h: e du coté de la place de la république là e sinon e je sais que la chambre de commerce c'est le e comment e organise éventuellement des des stages aussi
+<23> client
+     c: ouais
+<24> hotesse
+     h: e mais bon autrement je peux pas vraiment vous e
+<25> client
+     c: et "English Connection" c'est e une entrepri(se) c'est une association ou une entreprise privée
+<26> hotesse
+     h: je ne sais pas oh vous allez trouver ça dans le dans l'annuaire hein
+<27> client
+     c: ouais d'accord
+<28> hotesse
+     h: je sais pas
+<29> client
+     c: c'est place de
+<30> hotesse
+     h: c'est place de la république c'est c'est tout près de la poste
+<31> client
+     c: à d'accord je vous remercie
+<32> hotesse+client
+     h: oui
+     c: madame
+<33> hotesse
+     h: je vous en prie
+<34> hotesse+client
+     h: au revoir
+     c: bonne journée
+<35> client
+     c: au revoir

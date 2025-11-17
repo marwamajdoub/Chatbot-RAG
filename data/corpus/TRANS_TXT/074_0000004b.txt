@@ -1,0 +1,16 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: boujour madame madame Nom s'il vous plait
+<03> hotesse
+     h: Prénom Nom
+<04> client
+     c: oui
+<05> hotesse
+     h: oui conservez je vais vous la passer #
+<06> hotesse2
+     h: oui allo
+<07> hotesse
+     h: c'est pour toi Prénom
+<08> hotesse2
+     h: ouais

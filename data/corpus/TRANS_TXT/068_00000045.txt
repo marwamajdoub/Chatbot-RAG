@@ -1,0 +1,100 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: e bonjour c'est Prénom Nom de l'ADEFOP
+<03> hotesse
+     h: oui
+<04> client
+     c: c'est Prénom2
+<05> hotesse
+     h: non c'est pas Prénom2 c'est Prénom3
+<06> client
+     c: Prénom3
+<07> hotesse
+     h: Prénom3 Nom3 qui est à Tohannic mais qui est là pour remplacer Prénom2
+<08> client
+     c: ah d'accord ben voilà j'ai toutes les explications
+<09> hotesse+client
+     h: voilà pourquoi c'est pas la même voix oui
+     c: [rire] [pf] [rire]
+<10> client
+     c: non parce que je connais Prénom2 et Prénom4 à l'accueil et puis voilà à T(ohannic) à rue de la Loi donc j'étais étonnée
+<11> hotesse+client
+     h: voilà
+     c: donc
+<12> client
+     c: e moi j'appelais parce que ce soir à six heures dix-huit heures il y a une réunion d'info(rmations) enfin deux réunions d'informations rue de la Loi
+<13> hotesse
+     h: oui c'est ici
+<14> client
+     c: on a réservé des salles est-ce que parce que je que je pense qu'à six heures l'accueil va être fermé
+<15> hotesse
+     h: oui
+<16> client
+     c: est ce que on voudrait afficher des on voudrait mettre des panneaux avec les numéros de salles
+<17> hotesse
+     h: oui
+<18> client
+     c: e il doit y avoir des supports non
+<19> hotesse
+     h: e oui il faut que j'en parle à Prénom4 parce que Prénom4 est à la repro ce que je vais faire je vais
+<20> client
+     c: ou je rappelle Prénom4 vous préférez
+<21> hotesse+client
+     h: e
+     c: ou
+<22> client
+     c: Prénom4 me rappelle tout à l'heure
+<23> hotesse
+     h: oui enfin toute manière je crois qu'il est il est à la repro pour l'instant
+<24> client
+     c: oui
+<25> hotesse
+     h: donc e à une heure et demie ben je peux lui dire e de vous rappeler oui
+<26> client
+     c: oui parce qu'il doit y avoir des panneaux à mettre
+<27> hotesse+client
+     h: ouais # je vais prendre votre numéro
+     c: à l'extérieur ou quelque chose comme ça
+<28> client
+     c: alors mon numéro c'est 0 2 97 oh ben voilà que j'ai un trou maintenant
+<29> hotesse
+     h: oh oui ben on se téléphone
+<30> hotesse+client
+     h: pas beaucoup
+     c: ça va mal
+<31> client
+     c: non 0 2 97 0 1 72 XX
+<32> hotesse
+     h: 72
+<33> hotesse+client
+     h: XX
+     c: Prénom Nom
+<34> hotesse
+     h: Prénom Nom
+<35> hotesse+client
+     h: oui d'accord
+     c: à l'ADEFOP
+<36> hotesse
+     h: d'accord c'est lui qui s'occupe de de ça
+<37> client
+     c: d'accord
+<38> hotesse
+     h: d'accord
+<39> hotesse+client
+     h: et vous rep()
+     c: merci beaucoup
+<40> hotesse
+     h: et vous reprenez à quelle heure
+<41> client
+     c: oh moi je m'arrête une demie heure de midi à midi et demie hein
+<42> hotesse
+     h: d'accord
+<43> client
+     c: voilà
+<44> hotesse
+     h: d'accord
+<45> client
+     c: au revoir
+<46> hotesse
+     h: au revoir

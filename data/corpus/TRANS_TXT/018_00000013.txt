@@ -1,0 +1,17 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour ce serait pour savoir comment obtenir e un dossier de candidature pour le D E S S e droit des affaires droit des P M E
+<03> hotesse
+     h: e oui je vais vous passer le secrétariat
+<04> client
+     c: d'accord merci
+<05> hotesse
+     h: [pi]
+<06> hotesse+hotesse2
+     h: Prenom oui
+     h: allo oui
+<07> hotesse
+     h: un dossier e D E S S droit des P M E
+<08> hotesse2
+     h: d'accord

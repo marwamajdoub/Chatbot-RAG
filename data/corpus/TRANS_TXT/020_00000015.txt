@@ -1,0 +1,25 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour madame monsieur Nom Siemens j'aurais voulu parler à Monsieur Nom2 s'il était là
+<03> hotesse
+     h: oui j'ai pas bien entendu votre nom monsieur
+<04> client
+     c: monsieur Nom Siemens
+<05> hotesse
+     h: monsieur Nom Société Siemens
+<06> hotesse+client
+     h: c'est ça
+     c: oui
+<07> client
+     c: de [pi] oui
+<08> hotesse
+     h: d'accord je vais voir
+<09> client
+     c: merci
+<10> hotesse2
+     h: allo
+<11> hotesse
+     h: oui j'ai en ligne monsieur Nom de la société Siemens
+<12> hotesse2
+     h: d'accord

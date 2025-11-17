@@ -1,0 +1,6 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: bonjour ici Prénom Nom est ce que je pourrais avoir Prénom2 Nom2 s'il vous plait
+<03> hotesse
+     h: # oui

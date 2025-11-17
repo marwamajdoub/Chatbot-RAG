@@ -1,0 +1,115 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour madame excusez moi de vous déranger e je voulais simplement vous demander e c'est p() e logiquement c'est pour les résultats de e maîtrise de droit
+<03> hotesse
+     h: les maîtrise de droit de re() droit j'ai rien pour le moment ma collègue m'a rien donné
+<04> client
+     c: ah d'accord
+<05> hotesse
+     h: non # non #
+<06> hotesse+client
+     h: et
+     c: bon
+<07> hotesse
+     h: faudrait appeler madame Nom dans le courant de la journée au 0 1 26 XX
+<08> client
+     c: oui oui oui
+<09> hotesse
+     h: là elle est pas dans son bureau hein
+<10> client
+     c: d'accord parce que là les résultat seront affichés à partir de quand
+<11> hotesse
+     h: ben justement je ne sais pas je vous dis
+<12> hotesse+client
+     h: ma
+     c: vous savez pas
+<13> hotesse
+     h: ma collègue m'a rien donné non elle m'a donné pour les licences mais pas pour les maîtrises
+<14> client
+     c: ah oui d'accord
+<15> hotesse
+     h: oui
+<16> client
+     c: oui # e oui ça peut être dans la journée même e vous savez pas
+<17> hotesse+client
+     h: aujourd'hui
+     c: non
+<18> client
+     c: oui non
+<19> hotesse
+     h: ah sûrement pas
+<20> hotesse+client
+     h: ah non
+     c: ah non
+<21> client
+     c: ah non je ne
+<22> hotesse+client
+     h: ah non elle m'aurait
+     c: non non
+<23> hotesse
+     h: donné depuis longtemps hein
+<24> client
+     c: ah oui d'accord
+<25> hotesse+client
+     h: ah oui
+     c: d'accord
+<26> hotesse
+     h: oui oui oui
+<27> hotesse+client
+     h: oui [pf] ah oui
+     c: d'accord oui oui oui
+<28> hotesse
+     h: non là j'ai rien donc c'est sûrement e sûrement pas e cette semaine hein
+<29> client
+     c: ah pas cette
+<30> hotesse+client
+     h: ah ben non
+     c: semaine
+<31> hotesse
+     h: je pense pas parce qu'elle m'a donné pour les licences
+<32> client
+     c: e
+<33> hotesse
+     h: et alors attendez pour les licences e qu'est-ce qu'il qu(e) je vous dise pas de bêtise c'est vendredi #
+<34> hotesse+client
+     h: donc e ça
+     c: donc oui
+<35> hotesse
+     h: peut pas être avant pour les e comment pour les maîtrises hein
+<36> client
+     c: parce que
+<37> hotesse+client
+     h: elle m'aurait donné
+     c: normalement
+<38> client
+     c: normalement c'était vendredi pour les maîtrises non
+<39> hotesse
+     h: je ne sais pas du tout non je vous dis
+<40> hotesse+client
+     h: moi
+     c: non
+<41> hotesse
+     h: elle m'a donné pour les licences vendredi
+<42> client
+     c: ah oui
+<43> hotesse
+     h: oui
+<44> client
+     c: e
+<45> hotesse
+     h: ouais mais bon vous l'appelez au 0 1 26 XX et puis elle vous dira hein
+<46> client
+     c: ah d'accord
+<47> hotesse
+     h: oui
+<48> client
+     c: oui oui
+<49> hotesse+client
+     h: voilà
+     c: bon
+<50> client
+     c: bien ben je vous remercie
+<51> hotesse+client
+     h: au revoir madame
+     c: allez au revoir

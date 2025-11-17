@@ -1,0 +1,12 @@
+<01> hotesse
+     h: U B S Bonjour
+<02> client
+     c: bonjour madame excusez-moi de vous déranger j'ai appelé tout à l'heure pour savoir si on pouvait [pf] venir récupérer les diplômes de licence
+<03> hotesse+client
+     h: # oui alors attendez je vais vous
+     c: et
+<04> hotesse
+     h: passer la
+<05> hotesse+client
+     h: personne
+     c: ouais [rire]

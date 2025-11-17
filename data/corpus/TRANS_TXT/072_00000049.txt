@@ -1,0 +1,59 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui Prénom Nom bonjour e j'aimerais joindre e monsieur Nom2 # Prénom2
+<03> hotesse
+     h: Monsieur Nom2 Prénom2 oui
+<04> client
+     c: c'est possible
+<05> hotesse
+     h: oui je vais regarder s'il est dans son bureau ou au secrétariat
+<06> client
+     c: merci c'est madame Nom3
+<07> hotesse
+     h: oui
+<08> client
+     c: c'est ça
+<09> hotesse+client
+     h: je vais vous passer madame
+     c: oui d'accord
+<10> hotesse
+     h: Nom3 hein elle va vous dire si e
+<11> client
+     c: merci
+<12> hotesse
+     h: #
+     h: attends est-ce que tu sais où sont les grands plastiques e les sacs poubelles e Prénom4 ou vous les rangez vos grands sacs poubelles [pi] # Nom5 # Prénom5 Nom5 oui elle voudrait des grands # sacs poubelles # non elle ne répond pas pour le moment
+<13> client
+     c: d'accord
+<14> hotesse+client
+     h: je lui d(is)
+     c: je rappelle
+<15> client
+     c: dans un instant peut être
+<16> hotesse
+     h: oui d'ici un petit quart d'heure
+<17> client
+     c: est-ce qu'il y a une ligne directe pour le son service
+<18> hotesse+client
+     h: e oui
+     c: ou est-ce
+<19> hotesse
+     h: 0 2 97
+<20> client
+     c: oui
+<21> hotesse
+     h: 0 1
+<22> client
+     c: 26
+<23> hotesse
+     h: 26 73
+<24> client
+     c: ok
+<25> hotesse+client
+     h: voilà
+     c: merci
+<26> hotesse
+     h: au revoir monsieur
+<27> client
+     c: bonne journée

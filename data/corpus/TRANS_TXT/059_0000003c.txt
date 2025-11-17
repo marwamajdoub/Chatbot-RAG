@@ -1,0 +1,14 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour je vous appelle au sujet des résultats de DEUG droit deuxième année j'aimerais savoir quand est ce qu'ils seraient affichés
+<03> hotesse
+     h: oui je vais vous passer une personne conservez si
+<04> client
+     c: d'accord merci [rire]
+<05> hotesse2
+     h: # oui
+<06> hotesse
+     h: oui je te je te passe une communication
+<07> hotesse2
+     h: ouais

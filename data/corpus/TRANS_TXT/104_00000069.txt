@@ -1,0 +1,50 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: e oui bonjour j'aurais souhaité avoir le secrétariat de du D U e carrière juridique s'il vous plait
+<03> hotesse
+     h: oui c'est vous êtes déjà en D U ou c'est pour avoir des renseignements
+<04> client
+     c: non c'est parce que nous avons transmis un dossier d'inscription une demande de dérogation pour rentrer en deuxième année
+<05> hotesse
+     h: oui
+<06> client
+     c: et je voulais savoir ben d'une part s'il était bien parvenu et
+<07> hotesse+client
+     h: d'accord
+     c: puis e
+<08> client
+     c: quand est-ce qu'on aurait la réponse et comment se passent e les inscriptions e enfin le paiement
+<09> hotesse+client
+     h: après d'accord
+     c: des inscriptions voilà oui
+<10> hotesse
+     h: inscription administrative oui
+<11> client
+     c: oui
+<12> hotesse
+     h: e # c'est pour vous madame
+<13> client
+     c: c'est pour ma fille
+<14> hotesse
+     h: vous me donnez son nom s'il vous plaît
+<15> client
+     c: Nom Prénom
+<16> hotesse
+     h: N O M
+<17> client
+     c: voilà oui oui
+<18> hotesse
+     h: Nom Prénom donc e dossier de dérogation pour entrer en deuxième année de D U
+<19> client
+     c: oui
+<20> hotesse
+     h: je vais vous passer ma collègue hein
+<21> client
+     c: merci
+<22> hotesse2
+     h: oui
+<23> hotesse
+     h: alors madame je suppose Nom appelle pour sa fille Nom Prénom qui aurait envoyé un dossier de dérogation pour entrer en deuxième année de D U [pf] elle voulait savoir e si tu avais bien reçu le dossier ce qu'il en était quand est-ce qu'elle aurait les réponses
+<24> hotesse2
+     h: d'accord je te remercie # ouais

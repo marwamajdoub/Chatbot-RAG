@@ -1,0 +1,12 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: bonjour madame excusez moi de vous déranger e en fait je vous appelle parce que j'ai passé ma maîtrise e donc à l'U B S l'année dernière
+<03> hotesse
+     h: oui
+<04> client
+     c: de droit et je voulais savoir si les diplômes e on pouvait les v() venir les retirer en fait les diplômes
+<05> hotesse
+     h: je vais vous passer la personne concernée
+<06> client
+     c: merci

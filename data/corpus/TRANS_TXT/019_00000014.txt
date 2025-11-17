@@ -1,0 +1,23 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour e j'ai appelé ce matin pour avoir e monsieur Nom vous m'avez dit de rappeler
+<03> hotesse
+     h: oui vous ê(tes) vous êtes madame c'est pour une une connexion e Internet peut-être pour votre e
+<04> client
+     c: voilà rappeler la date donc pour que c'était pour confirmer ma préinscription
+<05> hotesse
+     h: d'accord je vais vous passer monsieur Nom hein
+<06> client
+     c: d'accord
+<07> hotesse
+     h: t'as compris de quoi il s'agit Prénom hein j'ai pas dit Prénom2 hein j'ai dit Prénom hein
+<08> hotesse2
+     h: allo
+<09> hotesse
+     h: une une préinscription
+<10> hotesse+hotesse2
+     h: Prénom hein
+     h: oui cette après-midi quoi
+<11> hotesse2
+     h: ouais ouais Prénom3 ouais

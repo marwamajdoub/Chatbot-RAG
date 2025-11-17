@@ -1,0 +1,64 @@
+<01> hotesse+hotesse2
+     h: U B S bonjour
+     h: oui salut Prénom
+<02> hotesse
+     h: ah c'est Prénom
+<03> hotesse2
+     h: e tu vas essayer de voir je sais pas avec qui si peut-être avec Prénom2 mais il doit être à la
+<04> hotesse+hotesse2
+     h: ben oui
+     h: repro(graphie)
+<05> hotesse2
+     h: ce soir il doit y avoir une réunion sur le D A E U qui doit se faire à l'I U(P) e rue de la Loi
+<06> hotesse+hotesse2
+     h: oui [pi] oui
+     h: [pi]
+<07> hotesse2
+     h: c'est pas ici
+<08> hotesse
+     h: non c'est rue de la Loi
+<09> hotesse2
+     h: oh je je pense parce que
+<10> hotesse
+     h: écoute là je sais qui c'est ici oui
+<11> hotesse2
+     h: ah oui oui ben je te passe la b() la dame elle veut quelques renseignements sur ça
+<12> hotesse
+     h: d'accord ben passe-la moi
+<13> hotesse2
+     h: ok
+<14> hotesse
+     h: # allo
+<15> client
+     c: allo bonjour monsieur
+<16> hotesse
+     h: e b() non c'est une dame
+<17> client
+     c: ah pardon excusez-moi madame [rire] pardon
+<18> hotesse
+     h: non non
+<19> client
+     c: e j'aimerais savoir e j'ai une réunion ce soir e
+<20> hotesse+client
+     h: c'est vous qui avez appelé tout à l'heure
+     c: oui
+<21> client
+     c: ça a ça a coupé ou je sais
+<22> hotesse+client
+     h: on a été coupé
+     c: pas
+<23> hotesse
+     h: parce que je me renseignais si si c'est bien rue de la Loi
+<24> client
+     c: c'est un rue de la Loi hein
+<25> hotesse
+     h: oui c'est rue de la Loi la réunion
+<26> client
+     c: et e ben c'est un grand bâtiment c'est ce sera indiqué
+<27> hotesse
+     h: oui c'est indiqué oui oui oui
+<28> client
+     c: très bien merci beaucoup madame
+<29> hotesse+client
+     h: au revoir madame
+     c: au revoir

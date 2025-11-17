@@ -1,0 +1,78 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour e j'aurais souhaité e avoir Prénom Nom s'il était dans les parages ou s'il n'est pas qu'il qu'il m'appelle au au site à Lorient
+<03> hotesse
+     h: oui # au site à Lorient à quel numéro
+<04> client
+     c: au 0 2 97 87
+<05> hotesse
+     h: 87
+<06> client
+     c: 29 XX
+<07> hotesse
+     h: d'accord
+<08> client
+     c: il n'a pas de numéro e n()
+<09> hotesse+client
+     h: je vais voir
+     c: à l'atelier
+<10> hotesse
+     h: je vais voir s'il est à l'atelier hein
+<11> client
+     c: et il y a pas de numéro à l'atelier là
+<12> hotesse
+     h: si si si je vais voir s'il y est je l'ai aperçu ce matin sur le parking mais maintenant je vais voir s'il est
+<13> client
+     c: d'accord merci
+<14> hotesse
+     h: # non ça ne répond pas
+<15> hotesse+client
+     h: je vais lui laisser un
+     c: et # et
+<16> client
+     c: ben écoutez je vais je vais noter son numéro parce que je l'ai pas sur l'annuaire là
+<17> hotesse
+     h: d'accord c'est le 0 1 27 XX
+<18> client
+     c: ben c'est c'est ce que j'ai 0 1 27 XX donc c'est c'est retourné au standard
+<19> hotesse+client
+     h: voilà
+     c: quoi
+<20> hotesse
+     h: exactement
+<21> client
+     c: d'accord donc ça c'est le numéro de l'atelier
+<22> hotesse
+     h: oui
+<23> hotesse+client
+     h: je vais
+     c: ok
+<24> hotesse
+     h: laisser un message su le de() portable s'il est ouvert
+<25> client
+     c: et qu'il qu'il
+<26> hotesse+client
+     h: voilà
+     c: m'appelle
+<27> client
+     c: avant avant onze heures et demie parce que après j'ai je serai pas là
+<28> hotesse
+     h: avant onze heures et demie
+<29> client
+     c: s'il peut
+<30> hotesse
+     h: d'accord
+<31> hotesse+client
+     h: c'est monsieur Nom2
+     c: très bien
+<32> client
+     c: c'est ça
+<33> hotesse
+     h: # très bien bon ben c'est noté
+<34> client
+     c: merci
+<35> hotesse
+     h: merci au revoir
+<36> client
+     c: au revoir

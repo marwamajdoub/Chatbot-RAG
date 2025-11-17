@@ -1,0 +1,72 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour # j'aurais voulu avoir quelques précisions au sujet des pour les résultats de l'I U T e de l'I U T [pf] e de la première année de DEUG de droit
+<03> hotesse+client
+     h: première
+     c: quand
+<04> hotesse
+     h: année de DEUG de droit quand est-ce que les résultats sont e affichés
+<05> client
+     c: oui et ben et puis comment on peut les avoir parce que nous on est loin très loin
+<06> hotesse
+     h: vous êtes très loin #
+<07> hotesse+client
+     h: alors je vais vous
+     c: peut-être internet
+<08> hotesse
+     h: donner la date déjà dans un premier te(mps)
+<09> client
+     c: oui date
+<10> hotesse
+     h: première année de DEUG de droit ce sera le mercredi vingt-trois juin deux mille quatre
+<11> hotesse+client
+     h: vers
+     c: mercredi
+<12> hotesse
+     h: dix-sept heures
+<13> client
+     c: vingt-trois juin deux mille quatre à dix-sept heures oui
+<14> hotesse
+     h: bien et donc vous souhaiteriez les recevoir par courrier
+<15> client
+     c: e oui et puis les éventuellement la possibilité pour les consulter # sur sur internet ils apparaissent
+<16> hotesse
+     h: ah non je
+<17> hotesse+client
+     h: crois pas
+     c: non
+<18> hotesse
+     h: oui bon je vais e vous mettre en relation avec le secrétariat e pédagogique
+<19> client
+     c: merci
+<20> hotesse
+     h: #
+     h: eh Prénom # Prénom2 n'est pas là # Prénom2 n'est pas là # ah d'accord # alors e mademoiselle la secrétaire commence à neuf heures moins le quart donc on est un petit peu tôt là
+<21> client
+     c: e
+<22> hotesse
+     h: e vous pouvez rappeler je vous donne son numéro
+<23> hotesse+client
+     h: direct
+     c: oui
+<24> hotesse
+     h: e donc c'est le 0 2 97 0 1 26 XX
+<25> client
+     c: le 26 0 1 26
+<26> hotesse
+     h: 0 2 97 hein 0 1 26 XX
+<27> client
+     c: d'accord
+<28> hotesse+client
+     h: vous rappelez
+     c: je note
+<29> hotesse
+     h: d'ici un quart d'heure vingt minutes
+<30> client
+     c: d'accord merci
+<31> hotesse+client
+     h: voilà
+     c: au revoir
+<32> hotesse
+     h: au revoir

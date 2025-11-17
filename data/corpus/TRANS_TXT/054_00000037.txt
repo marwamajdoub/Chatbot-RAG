@@ -1,0 +1,40 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour madame e j'ai inscrit par e par e comment ça s'appelle e [pf] ah zut
+<03> hotesse
+     h: internet
+<04> client
+     c: int(ernet) bravo oui parce que actuellement j'ai des problèmes d'internet j'arrive pas à retrouver le nom hein
+<05> hotesse+client
+     h: oui
+     c: on
+<06> client
+     c: est en train de nous installer l'A D S L donc je suis coupée du monde pour l'instant [pf] alors e j'ai j'avais mis comme deuxième souhait de notre fils e votre e le DEUG d'économie et gestion
+<07> hotesse
+     h: oui
+<08> client
+     c: [pf] et # ah je sais p(as) ah non non c'est administration économie et sociale voilà c'est ça économique et sociale e je me je sais pas si d'ailleurs je me suis pas trompée entre les deux [pf] et je voulais savoir que ce qu'il fallait faire maintenant est-ce que je peux qu'est ce qu'il faut faire
+<09> hotesse
+     h: oui alors je vais vous passer une personne qui se trouve [pf] # alors attendez elle est absentée ici mais je vais vous la passer ailleurs parce qu'elle est partie à la repro donc elle s'occupe de ça conservez hein
+<10> client
+     c: c'est gentil merci madame
+<11> hotesse
+     h: # alors il ne répond pas pour le moment
+<12> client
+     c: d'accord
+<13> hotesse
+     h: donc rappelez dix min(utes) [pi] rap(pelez)
+<14> client
+     c: au même numéro
+<15> hotesse
+     h: e oui rappelez ici # autrement je vais vous donner celui qui est à la repro mais il va pas rester tout le temps à la repro c'est une collègue qui est absente donc il la remplace pour e faire des papiers e des dossiers que les profs ont besoin [pf] donc mais il va pas être là tout le temps donc rappelez ici à l'accueil
+<16> client
+     c: d'accord je rappelle à l'accueil ok merci
+<17> hotesse+client
+     h: oui
+     c: à tout à l'heure
+<18> hotesse
+     h: au revoir
+<19> client
+     c: au revoir

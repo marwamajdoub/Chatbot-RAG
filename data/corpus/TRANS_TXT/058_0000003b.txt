@@ -1,0 +1,24 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour madame madame Nom de Brest je vous appelle pour savoir si vous faîtes la capacité en droit
+<03> hotesse
+     h: en quelle filière
+<04> client
+     c: en droit
+<05> hotesse
+     h: en droit oui je vais vous passer Prénom Nom
+<06> client
+     c: ah oui là je suis pas en droit
+<07> hotesse+client
+     h: si vous êtes en droit
+     c: parce que je
+<08> hotesse
+     h: si si mais à l'accueil
+<09> hotesse+client
+     h: je vous passe la pers(onne)
+     c: ah d'accord oui d'accord
+<10> hotesse
+     h: personne de la scolar(ité) [pronounce=scora] scolarité
+<11> client
+     c: d'accord merci

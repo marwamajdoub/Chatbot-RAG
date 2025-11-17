@@ -1,0 +1,190 @@
+<01> hotesse2
+     h: I U P sciences de gestion bonjour
+<02> hotesse
+     h: e Prénom Nom
+<03> hotesse+hotesse2
+     h: c'est Prénom2 il
+     h: oui oui
+<04> hotesse
+     h: paraît que tu as des sujets d'examen
+<05> hotesse2
+     h: oui
+<06> hotesse
+     h: qui urgent
+<07> hotesse2
+     h: e ben oui
+<08> hotesse
+     h: c'est pour quand
+<09> hotesse2
+     h: e ben écoute e pour demain après-midi j'en ai un
+<10> hotesse
+     h: demain après-midi
+<11> hotesse+hotesse2
+     h: t'en as un
+     h: oui
+<12> hotesse
+     h: e demain
+<13> hotesse2
+     h: e tu veux qu?on fasse ça demain matin
+<14> hotesse
+     h: e c'est combien de pages e
+<15> hotesse2
+     h: e alors attends tu es e après il y en a un autre pour lundi
+<16> hotesse
+     h: ah il y a un autre pour lundi
+<17> hotesse2
+     h: oui
+<18> hotesse+hotesse2
+     h: c'est quoi
+     h: bon
+<19> hotesse
+     h: c'est qu'est-ce qu'il y a
+<20> hotesse+hotesse2
+     h: c'est recto verso à agrafer ou il y a des
+     h: e c'est # et il y a
+<21> hotesse2
+     h: il y a des agrafages et des recto verso et des e des dossiers des petits dossiers de cinq ou six pages à quatre-vingt-dix exemplaires là par exemple
+<22> hotesse
+     h: e ouais mais cinq six pages c'est agrafé quoi
+<23> hotesse2
+     h: oui oui oui oui oui
+<24> hotesse
+     h: ouais ouais ouais c'est pas des A3 e des e des A4 à transformer
+<25> hotesse+hotesse2
+     h: en A3 e ou et cetera # e
+     h: ah non non non non non non non non non non # non non
+<26> hotesse
+     h: tu veux qu'on voie [pronounce=voye] ça demain matin
+<27> hotesse2
+     h: ah ben écoute demain matin Prénom2 si tu veux
+<28> hotesse
+     h: c'est pour demain après-midi
+<29> hotesse2
+     h: oui
+<30> hotesse
+     h: il est quelle heure là # deux heures e deux heures
+<31> hotesse2
+     h: nous on peut faire ça demain matin hein
+<32> hotesse
+     h: tu as les sujets là avec toi
+<33> hotesse2
+     h: oui
+<34> hotesse
+     h: ouais demain matin eh je vais aller au courrier le matin j'ai # j'ai très peu de temps
+<35> hotesse2
+     h: comme tu veux
+<36> hotesse+hotesse2
+     h: faut que j'appelle e
+     h: ce que je peux te
+<37> hotesse
+     h: Prénom3 aussi
+<38> hotesse+hotesse2
+     h: en revanche
+     h: ben
+<39> hotesse2
+     h: ouais
+<40> hotesse
+     h: dans un premier temps faut que j'appelle Prénom3 parce que j'ai pas le code
+<41> hotesse2
+     h: ouais #
+<42> hotesse
+     h: et puis e dans un deuxième temps # il faut que e j'appelle e mon collègue de Lorient pour qu'il me réexplique comment mettre en route le beans
+<43> hotesse2
+     h: ouais
+<44> hotesse+hotesse2
+     h: et # donc e
+     h: [bb] mon pauvre Prénom2 ouais
+<45> hotesse2
+     h: et Prénom4 sait pas faire
+<46> hotesse
+     h: ben Prénom4 il est pas là # Prénom 4 il a fait mais il est pas là le mercredi après-midi
+<47> hotesse2
+     h: oui mais si on fait demain
+<48> hotesse
+     h: ben si demain matin il pourra faire
+<49> hotesse2
+     h: et ben à ce moment là c'est Prénom4 qu'est au courant
+<50> hotesse
+     h: de # ben il connaît le code lui
+<51> hotesse+hotesse2
+     h: et la dernière
+     h: et et t()
+<52> hotesse
+     h: fois c'est lui qu'avait remplacé sa femme quand elle était pas là
+<53> hotesse2
+     h: et ben alors on on on demande à ce moment là à Prénom4
+<54> hotesse+hotesse2
+     h: on verra ça
+     h: demain mat(in)
+<55> hotesse
+     h: et pis ouais pis demain si si tu tu tu as un problème ben j'irai parce que bon e
+<56> hotesse2
+     h: ouais
+<57> hotesse
+     h: ça passe avant hein là # là là il y a des priorités où
+<58> hotesse2
+     h: oui
+<59> hotesse
+     h: t'es bien obligé de foutre des priorités à des priorités aussi
+<60> hotesse2
+     h: [bb] je sais bien parce que e je
+<61> hotesse+hotesse2
+     h: ouais # ben ouais
+     h: sais bien hein
+<62> hotesse
+     h: les examens c'est # un cours tu peux le déplacer c'est pas
+<63> hotesse+hotesse2
+     h: le problème mais un examen le mec
+     h: ben oui mais un exa(men) un exa(men) # non non
+<64> hotesse
+     h: il a buché il est prêt
+<65> hotesse+hotesse2
+     h: ouais et # enfin bon
+     h: oui oui # oui oui # et surtout que bon
+<66> hotesse2
+     h: Prénom3 était au courant je lui avais dit qu'en fin de semaine il y avait des sujets d'examen à bon elle me l'avait dit il y a pas de problèmes hein
+<67> hotesse
+     h: hum
+<68> hotesse2
+     h: mais bon elle fait pas elle est malade elle est malade hein
+<69> hotesse+hotesse2
+     h: bon ben
+     h: bon ben
+<70> hotesse
+     h: t'inquiète bon si lui il peut pas moi je le ferai
+<71> hotesse2
+     h: bon écoute on # on voit cet après-midi il est pas là Prénom4
+<72> hotesse+hotesse2
+     h: il est pas là
+     h: que je sache un p(eu)
+<73> hotesse
+     h: mais je vais prévenir Prénom5 que déjà il mette
+<74> hotesse+hotesse2
+     h: ça
+     h: voilà
+<75> hotesse
+     h: sur le programme de demain matin
+<76> hotesse2
+     h: voilà demain matin et qu'on fasse ça
+<77> hotesse
+     h: et je téléphone à mon collègue
+<78> hotesse+hotesse2
+     h: demain
+     h: ouais
+<79> hotesse
+     h: matin pour savoir s'il est là au cas où il y aurait un
+<80> hotesse2
+     h: souci
+<81> hotesse
+     h: un cheese e qu'il
+<82> hotesse2
+     h: oui
+<83> hotesse
+     h: soit prêt pour me rendre service
+<84> hotesse2
+     h: ouais d'accord ok
+<85> hotesse
+     h: allez salut
+<86> hotesse+hotesse2
+     h: Prénom ciao
+     h: merci Prénom2

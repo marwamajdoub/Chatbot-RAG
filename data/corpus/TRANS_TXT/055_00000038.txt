@@ -1,0 +1,13 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: bonjour madame madame Nom s'il vous plait
+<03> hotesse
+     h: [pi] ah elle s'est absentée de son bureau
+<04> client
+     c: ah e e bon je peux la rappeler plus tard à ce moment là
+<05> hotesse
+     h: oui oui oui rappelez parce qu'elle est là mais elle m'a dit qu'elle partait un petit peu donc e
+<06> hotesse+client
+     h: hein vous pouvez tout à l'heure au revoir
+     c: OK merci au revoir

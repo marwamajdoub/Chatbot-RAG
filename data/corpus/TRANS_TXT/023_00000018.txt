@@ -1,0 +1,27 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour excusez moi de vous déranger est ce que c'est possible d'avoir Prénom Nom s'il vous plaît
+<03> hotesse
+     h: Prénom Nom elle travaille où c'est
+<04> client
+     c: ah ben écoutez j'ai j'ai e je sais pas j'ai simplement le numéro de téléphone e sur lequel je vous ai appelé
+<05> hotesse
+     h: hum
+<06> client
+     c: e c'est marqué e boulot donc je suppose que je pensais que c'était son bureau
+<07> hotesse
+     h: vous pouvez me dire le bureau ou alors e
+<08> hotesse+client
+     h: la pièce
+     c: non
+<09> client
+     c: je e je suis désolée j'ai simplement le 0 2 97 0 1 27 25
+<10> hotesse
+     h: 0 2 97 0 1
+<11> client
+     c: 27 25
+<12> hotesse
+     h: là je vais chercher je sais qu'il y est pas
+<13> client
+     c: merci

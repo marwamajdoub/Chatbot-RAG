@@ -1,0 +1,6 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour madame j'aurais voulu avoir des renseignements pour e l'() l'inscription en A E S administration économique et sociale
+<03> hotesse
+     h: Nom oui [pi] oui conservez je vais vous passer la personne

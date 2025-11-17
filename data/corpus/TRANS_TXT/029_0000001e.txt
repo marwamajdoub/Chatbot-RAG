@@ -1,0 +1,15 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: allo oui bonjour je voulais juste avoir un petit renseignement
+<03> hotesse
+     h: e
+<04> client
+     c: e je voulais vous demander e est ce que vous savez quel jour seront affichés les résultats des examens de e première année de droit
+<05> hotesse
+     h: # e # attendez je vais voir si
+<06> hotesse+client
+     h: si
+     c: d'accord merci
+<07> hotesse
+     h: si il y a quelque chose #
